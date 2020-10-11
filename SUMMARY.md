@@ -1,6 +1,7 @@
 # Table of contents
 
 * [RTFM now](README.md)
+* [Untitled](untitled.md)
 * [Extended info](extended-info.md)
 
 ## new\_group
