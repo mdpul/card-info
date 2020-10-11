@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [RTFM now](README.md)
 * [Extended info](extended-info.md)
 
 ## new\_group
